@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a dedicated and driven individual with a passion for leveraging technology to solve real-world problems. With a strong background in machine learning and Python programming, I am committed to applying my skills to streamline processes and enhance efficiency. Seeking opportunities to contribute to innovative projects and further develop my expertise in the field, I am eager to make a meaningful impact in the industry.🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+I am a dedicated and driven individual with a passion for leveraging technology to solve real-world problems. With a strong background in machine learning and Python programming, I am committed to applying my skills to streamline processes and enhance efficiency. Seeking opportunities to contribute to innovative projects and further develop my expertise in the field, I am eager to make a meaningful impact in the industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arman-siddiqui-19461b2a2?) 
